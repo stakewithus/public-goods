@@ -25,5 +25,9 @@ StakeWithUs is currently providing public rpc/grpc/lcd endpoints for the followi
 
 Rate limit are set to 200 requests per minute for all endpoints
 
+### RPC ###
 
+Network | Endpoints
+
+Cosmoshub | https://rpc.cosmos.stakewith.us
 
