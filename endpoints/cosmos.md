@@ -29,7 +29,6 @@ Rate limit are set to 200 requests per minute for all endpoints
 
 Network | Endpoints
 ------- | ---------
-
 Cosmoshub | https://rpc.cosmos.stakewith.us
 Osmosis | https://rpc.osmosis.stakewith.us
 
