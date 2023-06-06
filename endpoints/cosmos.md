@@ -20,6 +20,7 @@ StakeWithUs is currently providing public rpc/grpc/lcd endpoints for the followi
 16) Tgrade (TGRADE)
 17) Starname (IOV)
 18) Passage (PASG)
+19) Kujira (KUJI)
 
 ### Rate Limits ###
 
@@ -47,6 +48,7 @@ Celer | https://rpc.celer.stakewith.us
 Tgrade | https://rpc.tgrade.stakewith.us
 Starname | https://rpc.starname.stakewith.us
 Passage | https://rpc.passage.stakewith.us
+Kujira | https://rpc.kujira.stakewith.us
 
 ## GRPC
 
@@ -70,6 +72,7 @@ Celer | https://grpc.celer.stakewith.us
 Tgrade | https://grpc.tgrade.stakewith.us
 Starname | https://grpc.starname.stakewith.us
 Passage | https://grpc.passage.stakewith.us
+Kujira | https://grpc.kujira.stakewith.us
 
 ## LCD
 
@@ -93,5 +96,6 @@ Celer | https://api.celer.stakewith.us
 Tgrade | https://api.tgrade.stakewith.us
 Starname | https://api.starname.stakewith.us
 Passage | https://api.passage.stakewith.us
+Kujira | https://api.kujira.stakewith.us
 
 
