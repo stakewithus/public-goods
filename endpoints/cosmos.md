@@ -21,6 +21,7 @@ StakeWithUs is currently providing public rpc/grpc/lcd endpoints for the followi
 17) Starname (IOV)
 18) Passage (PASG)
 19) Kujira (KUJI)
+20) Archway (AARCH)
 
 ### Rate Limits ###
 
@@ -49,6 +50,7 @@ Tgrade | https://rpc.tgrade.stakewith.us
 Starname | https://rpc.starname.stakewith.us
 Passage | https://rpc.passage.stakewith.us
 Kujira | https://rpc.kujira.stakewith.us
+Archway | https://rpc.archway.stakewith.us
 
 ## GRPC
 
@@ -73,6 +75,7 @@ Tgrade | https://grpc.tgrade.stakewith.us
 Starname | https://grpc.starname.stakewith.us
 Passage | https://grpc.passage.stakewith.us
 Kujira | https://grpc.kujira.stakewith.us
+Archway | https://grpc.archway.stakewith.us
 
 ## LCD
 
@@ -97,5 +100,6 @@ Tgrade | https://api.tgrade.stakewith.us
 Starname | https://api.starname.stakewith.us
 Passage | https://api.passage.stakewith.us
 Kujira | https://api.kujira.stakewith.us
+Archway | https://api.archway.stakewith.us
 
 
