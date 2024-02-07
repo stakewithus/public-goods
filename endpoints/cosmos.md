@@ -22,6 +22,7 @@ StakeWithUs is currently providing public rpc/grpc/lcd endpoints for the followi
 18) Passage (PASG)
 19) Kujira (KUJI)
 20) Archway (AARCH)
+21) Celestia (TIA)
 
 ### Rate Limits ###
 
@@ -51,6 +52,7 @@ Starname | https://rpc.starname.stakewith.us
 Passage | https://rpc.passage.stakewith.us
 Kujira | https://rpc.kujira.stakewith.us
 Archway | https://rpc.archway.stakewith.us
+Celestia | https://rpc.celestia.stakewith.us
 
 ## GRPC
 
@@ -76,6 +78,7 @@ Starname | https://grpc.starname.stakewith.us
 Passage | https://grpc.passage.stakewith.us
 Kujira | https://grpc.kujira.stakewith.us
 Archway | https://grpc.archway.stakewith.us
+Celestia | https://grpc.celestia.stakewith.us
 
 ## LCD
 
@@ -101,5 +104,6 @@ Starname | https://api.starname.stakewith.us
 Passage | https://api.passage.stakewith.us
 Kujira | https://api.kujira.stakewith.us
 Archway | https://api.archway.stakewith.us
+Celestia | https://api.celestia.stakewith.us
 
 
