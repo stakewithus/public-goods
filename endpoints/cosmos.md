@@ -2,20 +2,22 @@
 
 StakeWithUs is currently providing public rpc/grpc/lcd endpoints for the following projects:
 
-1. Cosmos (ATOM)
-2. Osmosis (OSMOS)
-3. Injective (INJ)
-4. Persistence (XPRT)
-5. Bandchain (BAND)
-6. Kava (KAVA)
-7. Akash (AKASH)
-8. Terra (LUNA)
-9. Agoric (BLD)
-10. QuickSilver (QCK)
-11. Celer (CELER)
-12. Passage (PASG)
-13. Kujira (KUJI)
-14. Celestia (TIA)
+1. Agoric (BLD)
+2. Akash (AKASH)
+3. Archway (ARCH)
+4. Bandchain (BAND)
+5. Celer (CELER)
+6. Celestia (TIA)
+7. Cosmos (ATOM)
+8. dYdX (DYDX)
+9. Injective (INJ)
+10. Kava (KAVA)
+11. Kujira (KUJI)
+12. Osmosis (OSMOS)
+13. Passage (PASG)
+14. Persistence (XPRT)
+15. QuickSilver (QCK)
+16. Terra (LUNA)
 
 ### Rate Limits
 
@@ -27,14 +29,16 @@ Rate limit are set to 200 requests per minute for all endpoints
 | ----------- | ------------------------------------ |
 | Agoric      | https://rpc.agoric.stakewith.us      |
 | Akash       | https://rpc.akash.stakewith.us       |
+| Archway     | https://rpc.archway.stakewith.us     |
 | Bandchain   | https://rpc.bandchain.stakewith.us   |
 | Celer       | https://rpc.celer.stakewith.us       |
 | Celestia    | https://rpc.celestia.stakewith.us    |
 | Cosmoshub   | https://rpc.cosmos.stakewith.us      |
-| Osmosis     | https://rpc.osmosis.stakewith.us     |
+| dYdX        | https://rpc.dydx.stakewith.us        |
 | Injective   | https://rpc.injective.stakewith.us   |
 | Kava        | https://rpc.kava.stakewith.us        |
 | Kujira      | https://rpc.kujira.stakewith.us      |
+| Osmosis     | https://rpc.osmosis.stakewith.us     |
 | Passage     | https://rpc.passage.stakewith.us     |
 | Persistence | https://rpc.persistence.stakewith.us |
 | Quicksilver | https://rpc.quicksilver.stakewith.us |
@@ -46,10 +50,12 @@ Rate limit are set to 200 requests per minute for all endpoints
 | ----------- | ------------------------------------- |
 | Agoric      | https://grpc.agoric.stakewith.us      |
 | Akash       | https://grpc.akash.stakewith.us       |
+| Archway     | https://grpc.archway.stakewith.us     |
 | Bandchain   | https://grpc.bandchain.stakewith.us   |
 | Celer       | https://grpc.celer.stakewith.us       |
 | Celestia    | https://grpc.celestia.stakewith.us    |
 | Cosmoshub   | https://grpc.cosmos.stakewith.us      |
+| dYdX        | https://grpc.dydx.stakewith.us        |
 | Injective   | https://grpc.injective.stakewith.us   |
 | Kava        | https://grpc.kava.stakewith.us        |
 | Kujira      | https://grpc.kujira.stakewith.us      |
@@ -61,19 +67,21 @@ Rate limit are set to 200 requests per minute for all endpoints
 
 ## LCD
 
-| Network     | Endpoints                                     |
-| ----------- | --------------------------------------------- |
-| Agoric      | https://api.agoric.stakewith.us - not working |
-| Akash       | https://api.akash.stakewith.us                |
-| Bandchain   | https://api.bandchain.stakewith.us            |
-| Celer       | https://api.celer.stakewith.us                |
-| Celestia    | https://api.celestia.stakewith.us             |
-| Cosmoshub   | https://api.cosmos.stakewith.us               |
-| Injective   | https://api.injective.stakewith.us            |
-| Kava        | https://api.kava.stakewith.us                 |
-| Kujira      | https://api.kujira.stakewith.us               |
-| Osmosis     | https://api.osmosis.stakewith.us              |
-| Passage     | https://api.passage.stakewith.us              |
-| Persistence | https://api.persistence.stakewith.us          |
-| Quicksilver | https://api.quicksilver.stakewith.us          |
-| Terra       | https://api.terra.stakewith.us                |
+| Network     | Endpoints                            |
+| ----------- | ------------------------------------ |
+| Agoric      | https://api.agoric.stakewith.us      |
+| Akash       | https://api.akash.stakewith.us       |
+| Archway     | https://api.archway.stakewith.us     |
+| Bandchain   | https://api.bandchain.stakewith.us   |
+| Celer       | https://api.celer.stakewith.us       |
+| Celestia    | https://api.celestia.stakewith.us    |
+| Cosmoshub   | https://api.cosmos.stakewith.us      |
+| dYdX        | https://api.dydx.stakewith.us        |
+| Injective   | https://api.injective.stakewith.us   |
+| Kava        | https://api.kava.stakewith.us        |
+| Kujira      | https://api.kujira.stakewith.us      |
+| Osmosis     | https://api.osmosis.stakewith.us     |
+| Passage     | https://api.passage.stakewith.us     |
+| Persistence | https://api.persistence.stakewith.us |
+| Quicksilver | https://api.quicksilver.stakewith.us |
+| Terra       | https://api.terra.stakewith.us       |
