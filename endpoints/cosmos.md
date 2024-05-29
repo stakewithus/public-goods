@@ -15,8 +15,7 @@ StakeWithUs is currently providing public rpc/grpc/lcd endpoints for the followi
 11) Celer (CELER)
 12) Passage (PASG)
 13) Kujira (KUJI)
-14) Archway (AARCH)@@@@
-15) Celestia (TIA)
+14) Celestia (TIA)
 
 ### Rate Limits ###
 
@@ -39,7 +38,6 @@ Quicksilver | https://rpc.quicksilver.stakewith.us
 Celer | https://rpc.celer.stakewith.us
 Passage | https://rpc.passage.stakewith.us
 Kujira | https://rpc.kujira.stakewith.us
-Archway | https://rpc.archway.stakewith.us
 Celestia | https://rpc.celestia.stakewith.us
 
 ## GRPC
@@ -59,7 +57,6 @@ Quicksilver | https://grpc.quicksilver.stakewith.us
 Celer | https://grpc.celer.stakewith.us
 Passage | https://grpc.passage.stakewith.us
 Kujira | https://grpc.kujira.stakewith.us
-Archway | https://grpc.archway.stakewith.us
 Celestia | https://grpc.celestia.stakewith.us
 
 ## LCD
@@ -79,5 +76,4 @@ Quicksilver | https://api.quicksilver.stakewith.us
 Celer | https://api.celer.stakewith.us
 Passage | https://api.passage.stakewith.us
 Kujira | https://api.kujira.stakewith.us
-Archway | https://api.archway.stakewith.us
 Celestia | https://api.celestia.stakewith.us
