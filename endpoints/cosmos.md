@@ -6,18 +6,19 @@ StakeWithUs is currently providing public rpc/grpc/lcd endpoints for the followi
 2. Akash (AKASH)
 3. Archway (ARCH)
 4. Bandchain (BAND)
-5. Celer (CELER)
-6. Celestia (TIA)
-7. Cosmos (ATOM)
-8. dYdX (DYDX)
-9. Injective (INJ)
-10. Kava (KAVA)
-11. Kujira (KUJI)
-12. Osmosis (OSMOS)
-13. Passage (PASG)
-14. Persistence (XPRT)
-15. QuickSilver (QCK)
-16. Terra (LUNA)
+5. Canto (CANTO)
+6. Celer (CELER)
+7. Celestia (TIA)
+8. Cosmos (ATOM)
+9. dYdX (DYDX)
+10. Injective (INJ)
+11. Kava (KAVA)
+12. Kujira (KUJI)
+13. Osmosis (OSMOS)
+14. Passage (PASG)
+15. Persistence (XPRT)
+16. QuickSilver (QCK)
+17. Terra (LUNA)
 
 ### Rate Limits
 
@@ -31,6 +32,7 @@ Rate limit are set to 200 requests per minute for all endpoints
 | Akash       | https://rpc.akash.stakewith.us       |
 | Archway     | https://rpc.archway.stakewith.us     |
 | Bandchain   | https://rpc.bandchain.stakewith.us   |
+| Canto       | https://rpc.canto.stakewith.us       |
 | Celer       | https://rpc.celer.stakewith.us       |
 | Celestia    | https://rpc.celestia.stakewith.us    |
 | Cosmoshub   | https://rpc.cosmos.stakewith.us      |
@@ -52,6 +54,7 @@ Rate limit are set to 200 requests per minute for all endpoints
 | Akash       | https://grpc.akash.stakewith.us       |
 | Archway     | https://grpc.archway.stakewith.us     |
 | Bandchain   | https://grpc.bandchain.stakewith.us   |
+| Canto       | https://grpc.canto.stakewith.us       |
 | Celer       | https://grpc.celer.stakewith.us       |
 | Celestia    | https://grpc.celestia.stakewith.us    |
 | Cosmoshub   | https://grpc.cosmos.stakewith.us      |
@@ -73,6 +76,7 @@ Rate limit are set to 200 requests per minute for all endpoints
 | Akash       | https://api.akash.stakewith.us       |
 | Archway     | https://api.archway.stakewith.us     |
 | Bandchain   | https://api.bandchain.stakewith.us   |
+| Canto       | https://api.canto.stakewith.us       |
 | Celer       | https://api.celer.stakewith.us       |
 | Celestia    | https://api.celestia.stakewith.us    |
 | Cosmoshub   | https://api.cosmos.stakewith.us      |
