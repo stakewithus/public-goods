@@ -9,16 +9,17 @@ StakeWithUs is currently providing public rpc/grpc/lcd endpoints for the followi
 5. Canto (CANTO)
 6. Celer (CELER)
 7. Celestia (TIA)
-8. Cosmos (ATOM)
-9. dYdX (DYDX)
-10. Injective (INJ)
-11. Kava (KAVA)
-12. Kujira (KUJI)
-13. Osmosis (OSMOS)
-14. Passage (PASG)
-15. Persistence (XPRT)
-16. QuickSilver (QCK)
-17. Terra (LUNA)
+8. Certik Shentu (CTK)
+9. Cosmos (ATOM)
+10. dYdX (DYDX)
+11. Injective (INJ)
+12. Kava (KAVA)
+13. Kujira (KUJI)
+14. Osmosis (OSMOS)
+15. Passage (PASG)
+16. Persistence (XPRT)
+17. QuickSilver (QCK)
+18. Terra (LUNA)
 
 ### Rate Limits
 
@@ -35,6 +36,7 @@ Rate limit are set to 200 requests per minute for all endpoints
 | Canto       | https://rpc.canto.stakewith.us       |
 | Celer       | https://rpc.celer.stakewith.us       |
 | Celestia    | https://rpc.celestia.stakewith.us    |
+| Certik      | https://rpc.certik.stakewith.us      |
 | Cosmoshub   | https://rpc.cosmos.stakewith.us      |
 | dYdX        | https://rpc.dydx.stakewith.us        |
 | Injective   | https://rpc.injective.stakewith.us   |
@@ -57,6 +59,7 @@ Rate limit are set to 200 requests per minute for all endpoints
 | Canto       | https://grpc.canto.stakewith.us       |
 | Celer       | https://grpc.celer.stakewith.us       |
 | Celestia    | https://grpc.celestia.stakewith.us    |
+| Certik      | https://grpc.certik.stakewith.us      |
 | Cosmoshub   | https://grpc.cosmos.stakewith.us      |
 | dYdX        | https://grpc.dydx.stakewith.us        |
 | Injective   | https://grpc.injective.stakewith.us   |
@@ -79,6 +82,7 @@ Rate limit are set to 200 requests per minute for all endpoints
 | Canto       | https://api.canto.stakewith.us       |
 | Celer       | https://api.celer.stakewith.us       |
 | Celestia    | https://api.celestia.stakewith.us    |
+| Certik      | https://api.certik.stakewith.us      |
 | Cosmoshub   | https://api.cosmos.stakewith.us      |
 | dYdX        | https://api.dydx.stakewith.us        |
 | Injective   | https://api.injective.stakewith.us   |
