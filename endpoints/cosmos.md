@@ -19,7 +19,8 @@ StakeWithUs is currently providing public rpc/grpc/lcd endpoints for the followi
 15. Passage (PASG)
 16. Persistence (XPRT)
 17. QuickSilver (QCK)
-18. Terra (LUNA)
+18. Selfchain (SLF)
+19. Terra (LUNA)
 
 ### Rate Limits
 
