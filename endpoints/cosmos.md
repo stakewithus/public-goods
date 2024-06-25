@@ -46,6 +46,7 @@ Rate limit are set to 200 requests per minute for all endpoints
 | Passage     | https://rpc.passage.stakewith.us     |
 | Persistence | https://rpc.persistence.stakewith.us |
 | Quicksilver | https://rpc.quicksilver.stakewith.us |
+| Selfchain   | https://rpc.selfchain.stakewith.us   |
 | Terra       | https://rpc.terra.stakewith.us       |
 
 ## GRPC
@@ -69,6 +70,7 @@ Rate limit are set to 200 requests per minute for all endpoints
 | Passage     | https://grpc.passage.stakewith.us     |
 | Persistence | https://grpc.persistence.stakewith.us |
 | Quicksilver | https://grpc.quicksilver.stakewith.us |
+| Selfchain   | https://grpc.selfchain.stakewith.us   |
 | Terra       | https://grpc.terra.stakewith.us       |
 
 ## LCD
@@ -92,4 +94,5 @@ Rate limit are set to 200 requests per minute for all endpoints
 | Passage     | https://api.passage.stakewith.us     |
 | Persistence | https://api.persistence.stakewith.us |
 | Quicksilver | https://api.quicksilver.stakewith.us |
+| Selfchain   | https://api.selfchain.stakewith.us   |
 | Terra       | https://api.terra.stakewith.us       |
