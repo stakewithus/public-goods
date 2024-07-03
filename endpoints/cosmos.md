@@ -12,15 +12,14 @@ StakeWithUs is currently providing public rpc/grpc/lcd endpoints for the followi
 8. Certik Shentu (CTK)
 9. Cosmos (ATOM)
 10. dYdX (DYDX)
-11. Injective (INJ)
-12. Kava (KAVA)
-13. Kujira (KUJI)
-14. Osmosis (OSMOS)
-15. Passage (PASG)
-16. Persistence (XPRT)
-17. QuickSilver (QCK)
-18. Selfchain (SLF)
-19. Terra (LUNA)
+11. Kava (KAVA)
+12. Kujira (KUJI)
+13. Osmosis (OSMOS)
+14. Passage (PASG)
+15. Persistence (XPRT)
+16. QuickSilver (QCK)
+17. Selfchain (SLF)
+18. Terra (LUNA)
 
 ### Rate Limits
 
@@ -40,7 +39,6 @@ Rate limit are set to 200 requests per minute for all endpoints
 | Certik      | https://rpc.certik.stakewith.us      |
 | Cosmoshub   | https://rpc.cosmos.stakewith.us      |
 | dYdX        | https://rpc.dydx.stakewith.us        |
-| Injective   | https://rpc.injective.stakewith.us   |
 | Kava        | https://rpc.kava.stakewith.us        |
 | Kujira      | https://rpc.kujira.stakewith.us      |
 | Osmosis     | https://rpc.osmosis.stakewith.us     |
@@ -88,7 +86,6 @@ Rate limit are set to 200 requests per minute for all endpoints
 | Certik      | https://api.certik.stakewith.us      |
 | Cosmoshub   | https://api.cosmos.stakewith.us      |
 | dYdX        | https://api.dydx.stakewith.us        |
-| Injective   | https://api.injective.stakewith.us   |
 | Kava        | https://api.kava.stakewith.us        |
 | Kujira      | https://api.kujira.stakewith.us      |
 | Osmosis     | https://api.osmosis.stakewith.us     |
